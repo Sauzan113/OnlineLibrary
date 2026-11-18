@@ -1,1 +1,19 @@
 
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+.python_packages/
+
+# Azure Functions local files
+local.settings.json
+
+# VS Code
+.vscode/
+
+# Test files
+.pytest_cache/
+.coverage
